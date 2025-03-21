@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">JetpackComposeSImpleProject</string>
+    <string name="enter_details">Enter Details</string>
+    <string name="enter_book_name">Enter Book Name</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="submit">Submit</string>
+</resources>
